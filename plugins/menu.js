@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'ravana', fromMe: false, desc: Lang.WP}, (async (mess
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⚡━━━━━💢RAVANA 3.1💢━━━━━⚡
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⚡━━━━━💢RAVANA 3.0💢━━━━━⚡
 
 
 Hi This is RAVANA 3.0 Bot this is my commands
