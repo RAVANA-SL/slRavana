@@ -24,47 +24,6 @@ Asena.addCommand({pattern: 'antispam', fromMe: true, deleteCommand: true, desc: 
 
         await message.client.sendMessage(
           message.jid,code, MessageType.text);
-
-    await message.client.sendMessage(
-        message.jid,code, MessageType.text);
-
-        await message.client.sendMessage(
-            message.jid,code, MessageType.text);
-
-            await message.client.sendMessage(
-                message.jid,code, MessageType.text);
-
-                await message.client.sendMessage(
-                  message.jid,code, MessageType.text);
-
-                  await message.client.sendMessage(
-                    message.jid,code, MessageType.text);
-
-                    await message.client.sendMessage(
-                      message.jid,code, MessageType.text);
-
-                      await message.client.sendMessage(
-                        message.jid,code, MessageType.text);
-  
-                               await message.client.sendMessage(
-            message.jid,code, MessageType.text);
-
-            await message.client.sendMessage(
-                message.jid,code, MessageType.text);
-
-                await message.client.sendMessage(
-                  message.jid,code, MessageType.text);
-
-                  await message.client.sendMessage(
-                    message.jid,code, MessageType.text);
-
-                    await message.client.sendMessage(
-                      message.jid,code, MessageType.text);
-
-                      await message.client.sendMessage(
-                        message.jid,code, MessageType.text);
-  
-                          await message.client.sendMessage(
-                             message.jid,FINAL, MessageType.text);
+          
 
   }));
