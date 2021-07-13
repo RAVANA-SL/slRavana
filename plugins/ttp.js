@@ -1,6 +1,5 @@
-/* Codded by @MsJessica
-Instagram: www.instagram.com/pr_bathdimuthu
-
+/* Codded by RAVANA 
+*/
 
 const Asena = require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
@@ -1032,4 +1031,4 @@ Asena.addCommand({pattern: 'snow ?(.*)', fromMe: true, dontAddCommandList: true}
 
 }));
 }
-*/
+
