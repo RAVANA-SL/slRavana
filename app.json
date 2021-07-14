@@ -79,6 +79,21 @@
             "required": true,
             "value": "false"
         },
+        "ALIVE_LOGO": {
+            "description": "Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://telegra.ph/file/4fa0c1622b2976d67c3b4.jpg"
+        },
+        "WELCOME_LOGO": {
+            "description": "Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://telegra.ph/file/4ce438f1111969bdd9df1.mp4"
+        },
+        "BYE_LOGO": {
+            "description": "Goodbye message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://telegra.ph/file/913e1025377cd11246775.gif"
+        },
         "REMOVE_BG_API_KEY": {
             "description": "ඡායාරූප වල පසුබිම ඉවත් කරයි. https://remove.bg",
             "required": false
@@ -86,7 +101,7 @@
         "ALIVE_MESSAGE": {
             "description": "අභිරුචිකරණය කළ හැකි සජීවී පණිවිඩය! ආපසු වෙනස් කිරීමට => පෙරනිමිය භාවිතා කරන්න.",
             "required": false,
-            "value": "```I am Alive```\n\n```Coded By RAVANA```"
+            "value": "defecult"
         },
         "BAN_MESSAGE": {
             "description": "අභිරුචිකරණය කළ හැකි තහනම් පණිවිඩයක්! ආපසු වෙනස් කිරීමට => පෙරනිමිය භාවිතා කරන්න.",
