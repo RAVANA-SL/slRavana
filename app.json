@@ -84,12 +84,12 @@
             "required": true,
             "value": "https://telegra.ph/file/4fa0c1622b2976d67c3b4.jpg"
         },
-        "WELCOME_LOGO": {
+        "GIF_WEL": {
             "description": "Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
             "required": true,
             "value": "https://telegra.ph/file/4ce438f1111969bdd9df1.mp4"
         },
-        "BYE_LOGO": {
+        "GIF_BYE": {
             "description": "Goodbye message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
             "required": true,
             "value": "https://telegra.ph/file/913e1025377cd11246775.gif"
