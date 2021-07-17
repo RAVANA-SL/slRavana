@@ -25,7 +25,7 @@ module.exports = {
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
-    ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://telegra.ph/file/4fa0c1622b2976d67c3b4.jpg' : process.env.ALIVE_LOGO,
+    ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://github.com/RAVANA-SL/slRavana/blob/master/IMG-20210717-WA0045-01.png' : process.env.ALIVE_LOGO,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://telegra.ph/file/4ce438f1111969bdd9df1.mp4' : process.env.GIF_WEL,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://telegra.ph/file/913e1025377cd11246775.gif' : process.env.GIF_BYE,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
