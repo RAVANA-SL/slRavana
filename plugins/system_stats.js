@@ -24,14 +24,14 @@ if (Config.WORKTYPE == 'private') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```😎Hey There! I m Online now. 😙```\n\n*Version:* ```v3.0 - Stable```\n\n*Developer:* ```RAVANA```\n\n*WhatsApp :* wa.me/94714898434\n\n*Youtube channel :* https://www.youtube.com/channel/UC4WaTaXOPPFP3V6sDBogJug\n\n```Thank You For Using RAVANA v3.0```"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "``හායි යාලුවනේ😀! මම දැන් online මේක පුද්ගලික් බොට් සේවාවක්. ♠```\n\n*Version:* ```v3.0 - Stable```\n\n*Developer:* ```RAVANA```\n\n*WhatsApp :* wa.me/94714898434\n\n*Youtube channel :* https://www.youtube.com/channel/UC4WaTaXOPPFP3V6sDBogJug\n\n```RAVANA v3.0 භාවිතා කිරීම ගැන ස්තූතියි.```"})
 
     }
     else {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Copyright © 2021 | RAVANA_SL*' })
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*සැකසුම © 2021 | RAVANA_SL*' })
      }
     }));
 
@@ -56,14 +56,14 @@ else if (Config.WORKTYPE == 'public') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```😎Hey There! I m Online now. 😙```\n\n*Version:* ```v3.0 - Stable```\n\n*Developer:* ```RAVANA```\n\n*WhatsApp :* wa.me/94714898434\n\n*Youtube channel :* https://www.youtube.com/channel/UC4WaTaXOPPFP3V6sDBogJug\n\n```Thank You For Using RAVANA v3.0```"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```හායි යාලුවනේ😃!මම දැන් online ඔයාලට මගේ සේවාව ලබාගත හැක. ✨```\n\n*Version:* ```v3.0 - Stable```\n\n*Developer:* ```RAVANA```\n\n*WhatsApp :* wa.me/94714898434\n\n*Youtube channel :* https://www.youtube.com/channel/UC4WaTaXOPPFP3V6sDBogJug\n\n```ස්තූතියි RAVANA v3.0 බොට්ව පාවිච්චි කිරීම පිළිබදව```"})
 
     }
     else {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*Copyright © 2021 | RAVANA_SL*' })
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: Config.ALIVEMSG + '\n\n*සැකසුම © 2021  | RAVANA_SL*' })
      }
     }));
 
