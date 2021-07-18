@@ -10,7 +10,7 @@ const need = "type some word after command\n🗡🗡"
 
 if (Config.WORKTYPE == 'private') {
 
-    Asena.addCommand({ pattern: 'rwc ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
+    Asena.addCommand({ pattern: 'rwatercolour ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(need);
 
@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
 else if (Config.WORKTYPE == 'public') {
 
-    Asena.addCommand({ pattern: 'rwc?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+    Asena.addCommand({ pattern: 'rwatercolour ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(need);
 
