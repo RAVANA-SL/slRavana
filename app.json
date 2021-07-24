@@ -38,7 +38,7 @@
 	"MENU_LOGO": {
             "description": "menu එකේ පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/bfe19bfcac75de9cd20ca.jpg"
+            "value": "https://telegra.ph/file/000e36957e64bf5631335.jpg"
         },
         "SEND_READ": {
             "description": "ඔබට දැකීමට අවශ්‍ය නම් true ලෙස ටයිප් කරන්න..",
@@ -96,7 +96,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/d4ca9ea74bbf894e24eaf.jpg"
+            "value": "https://telegra.ph/file/d34f1216d80604adb4f43.jpg"
         },
         "GIF_WEL": {
             "description": "Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
