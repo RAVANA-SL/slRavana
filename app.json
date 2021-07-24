@@ -1,11 +1,11 @@
 {
-    "name": "RAVANA",
+    "name": "RAVANA 3.1",
     "description": "RAVANA💢 project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://telegra.ph/file/24cacd9938446a38180fd.png",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
+    "logo": "https://telegra.ph/file/bfe19bfcac75de9cd20ca.jpg",
+    "keywords": ["whatsapp", "userbot", "RAVANA", "RAVANA", "bot", "api", "ai"],
     "repository": "https://github.com/RAVANA-SL/slRavana",
-    "website":   "https://t.me/farhan-dqz",
-    "success_url": "https://t.me/farhan-dqz",
+    "website":   "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
+    "success_url": "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
@@ -13,7 +13,7 @@
             "required": true
         },
         "SUDO": {
-            "description": "ඔබ එය භාවිතා කරන්නේ කෙසේදැයි නොදන්නේ නම් හිස්ව තබන්න! සුඩෝ මාදිලිය; ඔබගේ අංකය ජාත්‍යන්තර අංකයක් විය යුතුය. එබැවින් රටේ කේතයෙන් පසුව ඔබේ අංකය තිබිය යුතුය. උදාහරණය: 1205xxxxxxxx (USA අංකය +1)",
+            "description": "ඔබේ Botවෙත තවත් පරිපාලකයෙකු ලබාදීම සදහා. කරුණාකර ඔබේ රටේ කේතය ඇතුලත්ව whatsapp දුරකථන අංකය යොදන්න, උදා:- 947xxxxxxxx",
             "required": false
         },
         "LANGUAGE": {
@@ -21,10 +21,24 @@
             "required": true,
             "value": "EN"
         },
+        "CAPTION_KEY": {
+            "description": "Photo caption ;Beta version, logo/ image පහලින් (captain) සදහා අවශ්‍ය නම යොදන්න. උදා:- Made By Ravana.",
+            "required": true
+        },
         "HANDLERS": {
-            "description": "විධාන සඳහා. විධාන සඳහා.",
+            "description": "විධාන සඳහා. විධාන සඳහා. වෙනස් නොකරන්න",
             "required": true,
-            "value": "^[.!;]"
+            "value": "^[.]"
+        },
+	"MENU_TEXT": {
+            "description": "RaVana Official Menu. ඔබ කැමති නමක් යොදන්න. නැතහොත් වෙනස් නොකරන්න. සැයු :- _ _,* *,~ ~,``` ``` භාවිතා නොකරන්න",
+            "required": false,
+            "value": "RaVana Official Menu™"
+        },
+	"MENU_LOGO": {
+            "description": "menu එකේ පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
+            "required": true,
+            "value": "https://telegra.ph/file/bfe19bfcac75de9cd20ca.jpg"
         },
         "SEND_READ": {
             "description": "ඔබට දැකීමට අවශ්‍ය නම් true ලෙස ටයිප් කරන්න..",
@@ -82,7 +96,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message පින්තූරය වෙනස් කිරීම සඳහා ඔබගේ image link පහත සඳහන් කරන්න.",
             "required": true,
-            "value": "https://telegra.ph/file/4fa0c1622b2976d67c3b4.jpg"
+            "value": "https://telegra.ph/file/d4ca9ea74bbf894e24eaf.jpg"
         },
         "GIF_WEL": {
             "description": "Welcome message video වෙනස් කිරීම සඳහා ඔබගේ video link පහත සඳහන් කරන්න.",
