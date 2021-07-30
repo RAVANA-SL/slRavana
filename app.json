@@ -8,8 +8,8 @@
     "success_url": "https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
-            "description": "Qr.Js සමඟ ඔබ නිර්මාණය කළ අභිරුචි session කේතය.ඇතුලත් කරන්න",
+        "RAVANA_SESSION": {
+            "description": "Qr සමඟ ඔබ නිර්මාණය කළ අභිරුචි session කේතය.ඇතුලත් කරන්න",
             "required": true
         },
         "SUDO": {
