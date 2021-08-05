@@ -17,13 +17,14 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "භාෂාව සදහා මෙය පමනක් තියන්න වෙනස් කරන්න එපා.",
+            "description": "If you want Sinhala, put 'si' and if you want English, put 'en'.",
             "required": true,
-            "value": "EN"
+            "value": "SI"
         },
         "CAPTION_KEY": {
             "description": "Photo caption ;Beta version, logo/ image පහලින් (captain) සදහා අවශ්‍ය නම යොදන්න. උදා:- Made By Ravana.",
-            "required": true
+            "required": false,
+	    "value": "Made by RAVANA"
         },
         "HANDLERS": {
             "description": "විධාන සඳහා. විධාන සඳහා. වෙනස් නොකරන්න",
