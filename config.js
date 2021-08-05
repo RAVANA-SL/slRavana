@@ -23,7 +23,7 @@ module.exports = {
     CHANNEL: 'https://chat.whatsapp.com/B5r06KogQix9xhRDjY4NkP',
     SESSION: process.env.RAVANA_SESSION === undefined ? '' : process.env.RAVANA_SESSION,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
-    LANG: process.env.LANGUAGE === undefined ? 'TR' : process.env.LANGUAGE.toUpperCase(),
+    LANG: process.env.LANGUAGE === undefined ? 'SI' : process.env.LANGUAGE.toUpperCase(),
     ALIVEMSG: process.env.ALIVE_MESSAGE === undefined ? 'default' : process.env.ALIVE_MESSAGE,
     ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ?  'https://telegra.ph/file/d34f1216d80604adb4f43.jpg' : process.env.ALIVE_LOGO,
     GIF_WEL: process.env.GIF_WEL === undefined ? 'https://telegra.ph/file/4ce438f1111969bdd9df1.mp4' : process.env.GIF_WEL,
