@@ -1326,8 +1326,8 @@ FROM fusuf/whatsasena:latest
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(
     #UPSTREAM_REPO = os.environ.get(
-RUN git clone https://github.com/Agent34567/rn432 /root/rn432
-WORKDIR /root/rn432/
+RUN git clone https://github.com/Agent34567/rn432 /root/WhatsAsenaDuplicated
+WORKDIR /root/WhatsAsenaDuplicated/
 #3import logging
 #import os
 #import platform
