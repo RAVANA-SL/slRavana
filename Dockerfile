@@ -500,7 +500,7 @@ FROM fusuf/whatsasena:latest
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
     #STRINGSESSION_4 = os.environ.get("STRINGSESSION_4", None)
     #LOAD_UNOFFICIAL_PLUGINS = bool(strtobool(str(os.environ.get("LOAD_UNOFFICIAL_PLUGINS", False))))
-    #PLUhttps://github.com/lasiyaWA/X-Troid/edit/main/DockerfileGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
+    #PLUhttps://github.com/RAVANA-SL/slRavana/edit/main/DockerfileGIN_CHANNEL = os.environ.get("PLUGIN_CHANNEL", False)
     #TZ = os.environ.get("TZ", "Asia/Kolkata")
     #MONGO_DB = os.environ.get("MONGO_DB", None)
     #LOG_GRP = int(os.environ.get("LOG_GRP", False))
