@@ -20,23 +20,17 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Click WA logo to Join Support Group 👇
 <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP)
+  [![join](https://telegra.ph/file/88b996473fc4c82dd0810.png)](https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP)
   <div align="center">
        
   </div>
   
-  ## RAVANA bot විශේෂාංග
-RAVANA bot විශේෂාංග මෙන්න.
-<a href="https://gist.github.com/RAVANA-SL/64b891a432607ba67e55c44f234fbd8f">
-    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
-
   </a>
-## Setup
 <div align="center">
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@RAVANASL/indexjs#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/RAVANA)](https://replit.com/@RAVANASL/RAVANA-Qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANA-SL/slRavana)
      </div>
@@ -51,13 +45,13 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[RAVANA-SL](https://github.com/RAVANA-SL)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+  [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) 
+----|----
+[RAVANA-SL](https://github.com/RAVANA-SL)  | [Budy X](https://github.com/MrChaby) 
+OWNER | OWNER 
   </div>
     
-##  Help  Prabath  dimuth
+##  Help  Budy X
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
