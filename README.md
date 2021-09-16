@@ -1,14 +1,23 @@
-###      RAVANA BOT ලංකාවේ🇱🇰 සිංහල බොටෙක්
+   <p align="center">
+   
+   ###      RAVANA BOT ලංකාවේ🇱🇰 සිංහල බොටෙක්
+  
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+RAVANA+WHATSAPP+BOT)](https://git.io/typing-svg)
+  
+  
+
+
 
 
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/cbaa6eaaa22a533b54194.jpg" width="250" height="250"/>
-  <p align="center">
+ 
 
-    
+  
        | © | Reserved |
     
-    
+   
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
@@ -34,6 +43,7 @@ Click WA logo to Join Support Group 👇
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANA-SL/slRavana)
      </div>
+     
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
