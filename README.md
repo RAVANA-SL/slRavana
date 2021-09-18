@@ -1,6 +1,6 @@
    <div align="center">
    
-   ### RAVANA BOT By SL_RAVANA_TEAME            
+   ### RAVANA BOT 🤴🪀 By SL_RAVANA_TEAME            
    [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
    
  [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
@@ -38,7 +38,7 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+Click Whatsapp logo to Join Support Group 🤴👇
 <br>
 <br>
   [![join](https://telegra.ph/file/88b996473fc4c82dd0810.png)](https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP)
