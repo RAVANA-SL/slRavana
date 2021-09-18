@@ -1,7 +1,7 @@
    <div align="center">
    
    ### RAVANA BOT 🤴🪀 By SL_RAVANA_TEAME            
-   [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
+   [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Repo%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
    
  [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
   
@@ -17,7 +17,7 @@
   
        | © | Reserved |
     
-   <b>A stable pluggable whatsapp userbot + </nodejs>, based on whatsAsena.</b>   
+   <b>A stable pluggable srilanka whatsapp userbot + </nodejs>, based on whatsAsena.</b>   
 
 [![Stars](https://img.shields.io/github/stars/RAVANA-SL/slRavana?style=flat-square&color=yellow)](https://github.com/RAVANA-SL/slRavana/stargazers)
 [![Forks](https://img.shields.io/github/forks/RAVANA-SL/slRavana?style=flat-square&color=orange)](https://github.com/RAVANA-SL/slRavana/fork)
