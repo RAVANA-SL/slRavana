@@ -17,6 +17,18 @@
   
        | © | Reserved |
     
+   <b>A stable pluggable whatsapp userbot + </nodejs>, based on whatsAsena.</b>   
+
+[![Stars](https://img.shields.io/github/stars/RAVANA-SL/slRavana?style=flat-square&color=yellow)](https://github.com/RAVANA-SL/slRavana/stargazers)
+[![Forks](https://img.shields.io/github/forks/RAVANA-SL/slRavana?style=flat-square&color=orange)](https://github.com/RAVANA-SL/slRavana/fork)
+[![Size](https://img.shields.io/github/repo-size/RAVANA-SL/slRavana?style=flat-square&color=green)](https://github.com/RAVANA-SL/slRavana/)   
+[![Python](https://img.shields.io/badge/node-js-green)](https://nodejs.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/RAVANA-SL/slRavana/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/RAVANA-SL/slRavana)   
+[![Contributors](https://img.shields.io/github/contributors/RAVANA-SL/slRavana?style=flat-square&color=green)](https://github.com/RAVANA-SL/slRavana/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/RAVANA-SL/slRavana/blob/main/LICENSE)
+
    
 ### ⚠️ Warning! 
 ```
