@@ -1,0 +1,230 @@
+{
+    "name": "Ravana-SL-Bot",
+    "description": "RavanaBot is the Modified Version of WhatsAsena, Made By @RAVANA_SL Team with Baileys.",
+    "logo": "https://telegra.ph/file/cc76f880d8583b8d2bfe0.jpg",
+    "keywords": ["whatsapp", "userbot", "ravana", "WhatsAsena", "srilanka", "bot", "ai"],
+    "repository": "https://github.com/RAVANA-SL/slRavana",
+    "website":   "https://github.com/RAVANA-SL/slRavana",
+    "success_url": "https://github.com/RAVANA-SL/slRavana",
+    "stack": "container",
+    "env": {
+        "RAVANA_SESSION": {
+            "description": "Type here yours Asena Session.",
+            "required": true
+        },
+        "SUDO": {
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxxx,0",
+            "required": false
+        },
+        "LANGUAGE": {
+            "description": "Bot language.සිංහල => SI, English => EN",
+            "required": true,
+            "value": "SI"
+        },
+        "WELCOME": {
+            "description": "You can select welcome as gif/pp",
+            "required": false,
+            "value": "pp"
+        },
+        "WEL_GIF": {
+            "description": "Fill here any gif link if you selected gif as WEELCOME",
+            "required": false,
+            "value": "false"
+        },
+        "ALIVE_IMG_TYPE": {
+            "description": "You can change alive msg image. Image => img, Profile photo => pp",
+            "required": false,
+            "value": "pp"
+        },
+        "ALIVE_LOGO": {
+            "description": "if alive logo as Image you can change it. use this data store for upload your image => https://telegra.ph/",
+            "required": false,
+            "value": "https://telegra.ph/file/cc76f880d8583b8d2bfe0.jpg"
+        },
+        "BYE_GIF": {
+            "description": "Fill here any gif link if you selected gif as WEELCOME",
+            "required": false,
+            "value": "false"
+        },
+        "AUTO_BİO": {
+            "description": " Set true for auto date, time in biography.",
+            "required": true,
+            "value": "false"
+        },
+        "HANDLERS": {
+            "description": "For commands.",
+            "required": true,
+            "value": "^[,/.]"
+        },
+        "NO_LOG": {
+            "description": " Set true if you don't want to see error log.",
+            "required": true,
+            "value": "false"
+        },
+        "SEND_READ": {
+            "description": "Write true if you want to throw seen.",
+            "required": true,
+            "value": "true"
+        },
+        "CP_TEXT": {
+            "description": "Caption for images and videos",
+            "required": false
+        },
+        "HEROKU": {
+            "description": "If it is running in Heroku, type true.",
+            "required": true,
+            "value": "true"
+        },
+        "HEROKU_API_KEY": {
+            "description": "Heroku API Key.",
+            "required": true
+        },
+        "MUTE_MESSAGE": {
+            "description": "Customizable Mute Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "BLOCK_CHAT": {
+            "description": "Choose in which chat the bot won't work there. Ex: 947xxxx1xxx,0 or both number 947xxxxxxxx,947xxxxxxxx,0",
+            "required": false,
+            "value": "false"
+        },
+        "UNMUTE_MESSAGE": {
+            "description": "Customizable Unmute Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "BLOCK_MESSAGE": {
+            "description": "Customizable Block Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "UNBLOCK_MESSAGE": {
+            "description": "Customizable Unblock Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "BOT_NAME": {
+            "description": "heading for .ravana command reply",
+            "required": false
+        },
+        "WORK_TYPE": {
+            "description": "If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "required": true,
+            "value": "public"
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Heroku APP Name.",
+            "required": true
+        },
+        "DEBUG": {
+            "description": "Debugging",
+            "required": true,
+            "value": "false"
+        },
+        "REMOVE_BG_API_KEY": {
+            "description": "https://remove.bg",
+            "required": false
+        },
+        "ALIVE_MESSAGE": {
+            "description": "Customizable Alive Message! Use => default, to change back.",
+            "required": false,
+            "value": "```♧😂  нί丨𝕀 𝔽яĮẸ𝐧𝐃ｓ яᗩ𝕍ᵃŇ卂-𝐛ⓞ𝕋 ⓃⓄⓦ ˢ𝐭𝓲ＬẸ 卂𝔩ι𝓥έ  ♨♞```\n\n*Version:* ```v4.0 Stable```\n\n*Developer:* ```RAVANA_SL_TEAM```\n\n*Youtube channel :* https://www.youtube.com/channel/UC4WaTaXOPPFP3V6sDBogJug\n\n```Ravana_Bot භාවිතා කිරීම ගැන ස්තූතියි.```"
+        },
+        "BAN_MESSAGE": {
+            "description": "Customizable Ban Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "MENU_LOGO": {
+            "description": "You Can Customiz Ravana-Bot Menu Logo. get image links use this site => https://telegra.ph/",
+            "required": false,
+            "value": "https://telegra.ph/file/196687b452f1a1a49079c.jpg"
+        },
+        "SONG_D": {
+            "description": "Customizable song DOWNLOADING message'",
+            "required": false
+        },
+        "SONG_UP": {
+            "description": "Customizable song UPLOADING message",
+            "required": false
+        },
+        "ADD_MESSAGE": {
+            "description": "Customizable Add Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "KICKME_MESSAGE": {
+            "description": "Customizable Kickme Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "PROMOTE_MESSAGE": {
+            "description": "Customizable Promote Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "DEMOTE_MESSAGE": {
+            "description": "Customizable Demote Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "AFK_MESSAGE": {
+            "description": "Customizable AFK Message! Use => default, to change back.",
+            "required": false,
+            "value": "default"
+        },
+        "NO_ONLINE": {
+            "description": "Chang whatsapp web status",
+            "required": false,
+            "value": "true"
+        },
+        "VIDEO_DOWN": {
+            "description": "Customizable video DOWNLOADING message",
+            "required": false
+        },
+        "VIDEO_UP": {
+            "description": "Customizable video UPLOADING message",
+            "required": false
+        },
+        "VID_CP": {
+            "description": "Caption for video UPLOADING image",
+            "required": false
+        },
+        "OWNERNUM": {
+            "description": "Type bot owner number.",
+            "required": false,
+            "value": "947xxxxxxxx"
+        },
+        "XTEAM_API": {
+            "description": "xteam api get hear => https://api.xteam.xyz/",
+            "required": false
+        },
+        "ZEKS_API": {
+            "description": "zeks api get hear => https://zeks.xyz/",
+            "required": false
+        },
+        "LOLUHUMAN_API": {
+            "description": "lolhuman api get hear => https://lolhuman.herokuapp.com/",
+            "required": false
+        },
+        "MENUTEXT": {
+            "description": "You can customiz Ravana Bot command menu text",
+            "required": false
+        },
+        "MENU_HELP_EMOJI": {
+            "description": "You can customiz Ravana Bot command menu help emoji ❗NOTE use emoji only.",
+            "required": false
+        },
+        "MENU_EXAMPLE_EMOJI": {
+            "description": "You can customiz Ravana Bot command menu example emoji ❗NOTE use emoji only.",
+            "required": false
+        }
+    },
+    "addons": [{
+      "plan": "heroku-postgresql"
+    }],
+    "buildpacks": [{
+      "url": "heroku-community/apt"
+      }]
+  }

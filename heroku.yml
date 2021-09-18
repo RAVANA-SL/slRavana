@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /wkdir/Dockerfile
+run:
+   worker: npm start
