@@ -63,3 +63,8 @@ slRavana is licensed under [GNU Affero General Public License](https://www.gnu.o
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)
 
+# Credits
+* [![SL_RAVANA_TEAM](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://github.com/RAVANA-SL)
+* [@adiwajshing](https://github.com/adiwajshing) for codded [Baileys](https://github.com/adiwajshing)
+* [Yusuf Usta](https://t.me/fusufs) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+* [farhan-dqz](https://github.com/farhan-dqz) for [Base](https://github.com/farhan-dqz/JulieMwol)
