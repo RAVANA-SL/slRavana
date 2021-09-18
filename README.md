@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/cbaa6eaaa22a533b54194.jpg" width="999" height="999"/>
+  <img border-radius: 15px src="https://telegra.ph/file/cbaa6eaaa22a533b54194.jpg" width="700" height="999"/>
  
 
   
