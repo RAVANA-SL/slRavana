@@ -1,17 +1,17 @@
-   <p align="center">
+   <div align="center">
    
-   ###      RAVANA BOT ලංකාවේ🇱🇰 සිංහල බොටෙක්
+   ### RAVANA BOT By SL_RAVANA_TEAME            
+   [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
+   
+ [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
   
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+RAVANA+WHATSAPP+BOT)](https://git.io/typing-svg)
-  
-  
+  </div>
 
 
 
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/cbaa6eaaa22a533b54194.jpg" width="250" height="250"/>
+  <img border-radius: 15px src="https://telegra.ph/file/cbaa6eaaa22a533b54194.jpg" width="999" height="999"/>
  
 
   
@@ -30,12 +30,9 @@ Click WA logo to Join Support Group 👇
 <br>
 <br>
   [![join](https://telegra.ph/file/88b996473fc4c82dd0810.png)](https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP)
-  <div align="center">
-       
-  </div>
   
   </a>
-<div align="center">
+</div>
 
   ### Simple Method
   
@@ -53,18 +50,16 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developers
-  <div align="center">
     
   [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) 
 ----|----
-[RAVANA-SL](https://github.com/RAVANA-SL)  | [Budy X](https://github.com/MrChaby) 
-OWNER | OWNER 
-  </div>
+[RAVANA-SL](https://github.com/RAVANA-SL)  | [MrChaby](https://github.com/MrChaby) 
+Developer,Bug Fixes, Commits, Modules | Code Owner: Bug Fixes, Modules 
+
     
-##  Help  Budy X
 
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
+# License
+slRavana is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)
+
