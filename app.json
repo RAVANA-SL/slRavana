@@ -17,9 +17,9 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language.සිංහල => SI, English => EN",
+            "description": "Bot language.සිංහල => SI, English => EN.ජරුණාකර en දමන්න සිංහල එකේ දෝෂයක් අප ඉක්මනට  එය සකසන්නම්.",
             "required": true,
-            "value": "SI"
+            "value": "en"
         },
         "WELCOME": {
             "description": "You can select welcome as gif/pp",
