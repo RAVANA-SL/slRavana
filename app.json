@@ -1,7 +1,7 @@
 {
     "name": "RAVANA",
     "description": "RavanaBot is the Modified Version of WhatsAsena, Made By @RAVANA_SL Team with Baileys.",
-    "logo": "https://telegra.ph/file/cc76f880d8583b8d2bfe0.jpg",
+    "logo": "https://telegra.ph/file/d61b511f6769c96bb7424.jpg",
     "keywords": ["whatsapp", "userbot", "ravana", "WhatsAsena", "srilanka", "bot", "ai"],
     "repository": "https://github.com/RAVANA-SL/slRavana",
     "website":   "https://github.com/RAVANA-SL/slRavana",
@@ -17,9 +17,9 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language.සිංහල => SI, English => EN.ජරුණාකර en දමන්න සිංහල එකේ දෝෂයක් අප ඉක්මනට  එය සකසන්නම්.",
+            "description": "Bot language.සිංහල => si, English => en.",
             "required": true,
-            "value": "en"
+            "value": "si"
         },
         "WELCOME": {
             "description": "You can select welcome as gif/pp",
