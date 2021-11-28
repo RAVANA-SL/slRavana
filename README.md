@@ -37,12 +37,7 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, RAVANA executives do not accept responsibility.
 By establishing the RAVANA, you are deemed to have accepted these responsibilities.
 ```
-## 📢 Guide
-Click Whatsapp logo to Join Support Group 🤴👇
-<br>
-<br>
-  [![join](https://telegra.ph/file/88b996473fc4c82dd0810.png)](https://chat.whatsapp.com/Fo65f7TcUjx9FUJlFCSZks)
-  
+
   </a>
 </div>
 
