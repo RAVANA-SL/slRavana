@@ -2377,8 +2377,8 @@ FROM fusuf/whatsasena:latest
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(
     #UPSTREAM_REPO = os.environ.get(
-RUN git clone https://github.com/agentmax123/4.0 /root/4.0
-WORKDIR /root/4.0/ 
+RUN git clone https://github.com/agentmax123/rnrp.git /root/slRavana
+WORKDIR /root/slRavana/ 
     #3)
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
@@ -2849,7 +2849,7 @@ ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
 RUN yarn install --no-audit
 
-CMD ["node", "bot.js"]
+CMD ["node", "index.js"]
     #API_ID = int(os.environ.get("API_ID", 1))
     #API_HASH = os.environ.get("API_HASH", None)
     #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
