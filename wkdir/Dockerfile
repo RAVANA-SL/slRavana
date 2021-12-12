@@ -2327,6 +2327,205 @@ FROM fusuf/whatsasena:latest
     #ASSISTANT_START_PIC = os.environ.get(
      #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
     #3)
+        #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
     #STRINGSESSION_4 = os.environ.get("STRINGSESSION_4", None)
@@ -2436,8 +2635,99 @@ FROM fusuf/whatsasena:latest
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
     #UPSTREAM_REPO = os.environ.get(
     #UPSTREAM_REPO = os.environ.get(
-RUN git clone https://github.com/agentmax123/rnrp.git /root/slRavana
-WORKDIR /root/slRavana/ 
+        #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)    #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+    #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
+    #UPSTREAM_REPO = os.environ.get(    #API_ID = int(os.environ.get("API_ID", 1))
+    #API_HASH = os.environ.get("API_HASH", None)
+    #BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
+    #REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
+    #STRINGSESSION = os.environ.get("STRINGSESSION", None)
+    #ASSISTANT_START_PIC = os.environ.get(
+     #   "ASSISTANT_START_PIC", "https://telegra.ph//file/92c1a600394c723db90fc.jpg"
+    #3)
+RUN git clone https://github.com/agentmax123/rnrp.git /root/4.0
+WORKDIR /root/4.0/ 
     #3)
     #STRINGSESSION_2 = os.environ.get("STRINGSESSION_2", None)
     #S#TRINGSESSION_3 = os.environ.get("STRINGSESSION_3", None)
