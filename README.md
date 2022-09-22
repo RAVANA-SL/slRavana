@@ -1,77 +1,138 @@
-   <div align="center">
-   
-   ### RAVANA BOT 🤴🪀 By SL_RAVANA_TEAME            
-   [![Profile views](https://komarev.com/ghpvc/?username=RAVANA-SL&label=Profile%20Views&color=red)](https://github.com/RAVANA-SL/slRavana)
-   
- [![Typing SVG](https://bit.ly/2VPUdnC)](https://git.io/typing-svg)
-  
-  </div>
+   <p align="center">
+<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
+<p align="center">
+<img src="https://imgflip.com/gif/6tswjt" alt="nz" width="350"/>
+</p>
+
+## 𝘿𝙍𝘼𝙆╺ 𝙀𝙍𝙍𝙊𝙍 -𝗕𝗢𝗧࿐   Version 12.0
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝘿𝙍𝘼𝙆+𝙀𝙍𝙍𝙊𝙍++𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈;+𝙳𝚁𝙰𝙺+𝙴𝚁𝚁𝙾𝚁+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝐌𝐑.𝐇𝐀𝐍𝐒𝐀𝐌𝐀𝐋𝐀;𝐌𝐑:+☬𝐌𝐑.𝐓𝐇𝐀𝐑𝐔𝐖𝐀࿐;💕𝐍𝐄𝐖_𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐁𝐎𝐓;𝐃𝐑𝐀𝐊+𝐄𝐑𝐑𝐎𝐑)](https://git.io/typing-svg)
+
+LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
+
+> [🔄Please Follow Me🤭](https://github.com/drakerrorbot/drakerrorbot.git)
+
+<img src="./Android/database/MR.Hansamala-1.gif" alt="Loading..." width="310"/>
+
+> Image Designed By  ==(MR.HANSAMALA)== DRAK ERROR TEAM
+
+> Created By ==(MR.HANSAMALA)== DRAK ERROR TEAM
+
+
+<p align="center">
+❯❯Kick bellow topics❮❮
+</p>
+<p align="center">
+👇To proccess👇
+</p>
+
+## ➾ [Scan QR In Your Whatsapp From Here](CODE LINK එක )
+ 
+## ➾ [Fork This Repo By Clicking Here](https://github.com/drakerrorbot/drakerrorbot/fork)
+ 
+## ➾ [Then Deploy The Bot From Here](link එක)
+
+
+<p align="center">
+
+<img src="" alt="nz" width="350"/>
+
+</p>
+
+</details>
+
+<b><details><summary>🔄How to Update Bot🔄</summary>
+
+> [VIDEO](https://drive.google.com/file/d/1798s8erVW31EcmK3Opq-QuV7GG4byyoH/view)
+
+</b>
+</details>
+
+<b><details><summary>📤How to Upload Images To Alive Msg📤</summary>
+
+> [VIDEO](https://drive.google.com/file/d/16J5278xK9-5oJUsGPygviVC9U6exw1AZ/view)
+
+</b>
+</details>
+
+<b><details><summary>🪀Recommended WhatsApps🪀</summary>
+
+>If you using mod whatsapp!
+>DO NOT USE FOUD MODS.
+
+>ඔබ වට්සැප් මොඩ් භාවිතා කරනවා නම් Foud mod හෝ වෙනත් පරණ Base සහිත වට්සැප් මගින් ඔබේ ගිනුම තාවකාලිකව Ban විය හැකියි.
+
+Recommended WhatsApp👇
+>Normal WhatsApp [DOWNLOAD](https://play.google.com/store/apps/details?id=com.whatsapp)
+>YMWhatsApp Mod [DOWNLOAD](https://ymwhatsapp.com/ymwa/)
+
+</b>
+</details>
+
+##
+
+> [SUPPORT GROUP](https://chat.whatsapp.com/IopB0pUXuF22vlEMh9ZQff)
+
+<b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
+
+>මුලින්ම qr code එක scan කරගන්න🥲. multi devices beta වැඩ කරනෝ
+
+>ඊට පස්සෙ මේ git එක fork කරගන්න. හරි. දැන් ඔයා fork කරගත්ත git එකට යන්න😌.
+
+>දැන් වට්සැප් එකේ ඔයාගෙ ලොක් අංගයට session.json කියලා file එකක් ඇවිල්ලා ඇති. ඒක තියෙන්නෙ Whatsapp > media > whatsapp documents > session.json  මෙතන.
+
+>දැන් ඔයා අර fork කරපු git එකට ආයි ගිහින් ඒ session.json එක upload කරලා commit changes දෙන්න...
+
+>දැන් ආයි බැක් වෙලා Edit 'setting.js' With Your Choice ගිහින් ඒව මේව වෙනස් කරගන්න පුලුවම්...
+
+>යටට ගිහින් "Then Deploy The Bot From Here "👈මෙතනින් deploy කරන්න විතරයි තියෙන්නේ...
+
+</b>
+</details>
+
+<!-- Contact Owner -->
+<b><details><summary>Contact Owner 😜</summary></b>
+
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/94740203415"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+</p>
+
+</details>
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
+
+## 𝐌𝐑: ☬H̑̈Ȃ̈N̑̈S̑̈Ȃ̈M̑̈Ȃ̈L̑̈Ȃ̈༒࿐
 
 
 
+<b><details><summary>Available Features</summary><br>
+	
+| Features |  Availability |
+| :------: |  :----------: |
+|   Convert     |       😎     |
+|   Database     |       😎     |
+|   Owner     |       😎    |
+|   Downloader     |       😎     |
+|   Webzone     |       😎       |
+|   Searching     |       😎      |
+|   Textpro     |       😎      |
+|   Ephoto     |       😎     |
+|   Anime Web     |       😎      |
+|   Stalker     |       😎      |
+|   Random Text     |       😎     |
+|   Random Image     |       😎     |
+|   Creator     |       😎      |
+
+</details>
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/cbaa6eaaa22a533b54194.jpg" width="600" height="600"/>
- 
+	
+[![Run on Repl.it]
 
-  
-       | © | Reserved |
-    
-   <b>A stable pluggable whatsapp userbot + </nodejs>, based on whatsAsena.</b>   
-
-[![Stars](https://img.shields.io/github/stars/RAVANA-SL/slRavana?style=flat-square&color=yellow)](https://github.com/RAVANA-SL/slRavana/stargazers)
-[![Forks](https://img.shields.io/github/forks/RAVANA-SL/slRavana?style=flat-square&color=orange)](https://github.com/RAVANA-SL/slRavana/fork)
-[![Size](https://img.shields.io/github/repo-size/RAVANA-SL/slRavana?style=flat-square&color=green)](https://github.com/RAVANA-SL/slRavana/)   
-[![Python](https://img.shields.io/badge/node-js-green)](https://nodejs.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/RAVANA-SL/slRavana/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/RAVANA-SL/slRavana)   
-[![Contributors](https://img.shields.io/github/contributors/RAVANA-SL/slRavana?style=flat-square&color=green)](https://github.com/RAVANA-SL/slRavana/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/RAVANA-SL/slRavana/blob/main/LICENSE)
-
-   
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, RAVANA executives do not accept responsibility.
-By establishing the RAVANA, you are deemed to have accepted these responsibilities.
-```
-
-  </a>
+[![Deploy]
 </div>
 
-  ### Simple Method
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/RAVANA)](https://replit.com/@RAVANASL/RAVANA-Qr)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nobody1001-sl/mrravana)
-     </div>
-     
-### ⚠️ Warning! 
-```
-Userbot නිසා; ඔබේ WhatsApp ගිණුම තහනම් කළ හැකිය.(.ban කමාන්ඩ් වැරදි ලෙස ගැහුවොත්)
-මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය.
-නියත වශයෙන්ම රාවණා විධායකයින් වගකීම භාර නොගනී.
-රාවණා පිහිටුවීමෙන් ඔබ මෙම වගකීම් බාර ගත් බව සැලකේ.
-```
-
-## Developers
-    
-  [![RAVANA-SL](https://github.com/RAVANA-SL.png?size=100)](https://github.com/RAVANA-SL) |  [![Budy X](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) 
-----|----
-[RAVANA-SL](https://github.com/RAVANA-SL)  | [MrChaby](https://github.com/MrChaby) 
-Developer,Bug Fixes, Commits, Modules | Code Owner: Bug Fixes, Modules 
-
-    
-
-# License
-slRavana is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
-
-[![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)
-
-# Credits
-* [![SL_RAVANA_TEAM](https://img.shields.io/static/v1?label=SL_RAVANA_TEAM&message=slRavana&color=critical)](https://github.com/RAVANA-SL)
-* [@adiwajshing](https://github.com/adiwajshing) for codded [Baileys](https://github.com/adiwajshing)
-* [Yusuf Usta](https://t.me/fusufs) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
-* [farhan-dqz](https://github.com/farhan-dqz) for [Base](https://github.com/farhan-dqz/JulieMwol)
+## Thanks To
